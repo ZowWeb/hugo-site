@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Zeeshan is laude ka baal"
+theme = "ananke"
